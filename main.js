@@ -1,2 +1,2 @@
-const a = "Esto va generar un conflicto";
+const a = "Como estas?";
 console.log(a);
