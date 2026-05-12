@@ -1,2 +1,2 @@
-const a = "Hola soy Daniel";
+const a = "Mi nombre es Daniel, tengo 28 años y soy un desarrollador de software apasionado por la tecnología y la innovación. Me encanta aprender nuevas habilidades y enfrentar desafíos en el mundo de la programación. En mi tiempo libre, disfruto de la música, los videojuegos y pasar tiempo con mis amigos y familiares.";
 console.log(a);
