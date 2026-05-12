@@ -1,2 +1,2 @@
-const a = "Holaaa!";
+const a = "Hola soy Daniel";
 console.log(a);
